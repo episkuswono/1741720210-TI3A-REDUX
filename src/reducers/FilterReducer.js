@@ -14,4 +14,5 @@ const visibilityFilter = (state = SHOW_ALL,
         } 
     }; 
  
-export default visibilityFilter; 
+export default visibilityFilter;
+ 
